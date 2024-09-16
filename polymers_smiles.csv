@@ -1,0 +1,33 @@
+id,name,Acronym,Smilies
+31,Poly Styrene,PS,[*]CC([*])c1ccccc1
+32,Polyvinylpyrrolidone,PVP,[*]CC([*])N1CCCC1=O
+33,Poly methyl methacrylate,PMMA,[*]CC([*])(C)C(=O)OC
+34,Poly ethylene glycol,PEG,[*]CCO[*]
+35,Polyvinyl alcohol,PVA,[*]CC([*])O
+36,Polycaprolactone,PCL,[*]CCCCCC(=O)O[*]
+37,Polypropylene,PP,[*]CC([*])C
+38,Poly L lactic acid,PLLA,[*]OC(C)C([*])=O
+39,Dextran,Dex,[*]COC1OC([*])C(O)C(O)C1O
+40,Poly(2-ethyl-2-oxazoline),PEOX,[*]CCN([*])C(=O)CC
+41,Poly4vinylphenol,P4VP,[*]CC([*])c1ccc(O)cc1
+42,Chitosan,Chi,[*]OC1C(CO)OC([*])C(N)C1O
+43,Nylon-6,Nylon-6,[*]CCCCCC(=O)N[*]
+46,Poly ethylene oxide,PEO,[*]CCO[*]
+48,Poly (vinylidene fluoride),PVDF,[*]CC([*])(F)F
+53,Nylon-12,Nylon-12,[*]CCCCCCCCCCCC(=O)N[*]
+54,Polyethylene terephthalate,PET,[*]CCOC(=O)c1ccc(C(=O)O[*])cc1
+57,Poly(tetrafluoroethylene),PTFE,[*]C([*])(F)F
+58,Poly ethylene,PE,[*]C[*]
+59,Polyvinyl alcohol,PVA,[*]CC([*])O
+60,Polyvinylpyrrolidone,PVP,[*]CC([*])N1CCCC1=O
+61,Polyacrylamide,PAM,[*]CC([*])C(N)=O
+62,Poly(ethylene glycol) methyl ether,mPEG,[*]CCO[*]
+63,Polyacrylonitrile,PAN,[*]CC([*])C#N
+64,polytetrahydrofuran,PTHF,[*]CCCCO[*]
+65,Cellulose acetate,,CC(=O)OCC1OC(O[*])C(OC(C)=O)C(O)C1[*]
+66,Poly(vinylamine) hydrochloride,,C=CN
+68,Polyvinyl chloride,PVC,[*]CC([*])Cl
+69,Polyethyleneimine-linear,,C(CN)N
+70,Poly(vinyl formal),,[*]CC1CC([*])OCO1
+71,polyacenaphthylene,,[*]C1c2cccc3cccc(c23)C1[*]
+72,Poly(chlorotrifluoroethylene),,[*]C(F)(F)C([*])(F)Cl

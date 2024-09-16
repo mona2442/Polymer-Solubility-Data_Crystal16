@@ -1,0 +1,48 @@
+id,name,Smilies
+1,Water,O
+2,m-cresol,CC1=CC(=CC=C1)O
+3,Methanol,CO
+4,Ethanol,CCO
+5,Isopropylalcohol,CC(C)O
+6,n-butanol,C(CCC)O
+7,Acetic acid,CC(=O)O
+8,Trifluoroethanol,OCC(F)(F)F
+9,Nitrobenzene,C1=CC=C(C=C1)[N+](=O)[O-]
+10,Chlorobenzene,C1=CC=C(C=C1)Cl
+11,NMP,CN1CCCC1=O
+12,DMAc,CC(=O)N(C)C
+13,DMSO,CS(=O)C
+14,DMF,CN(C)C=O
+15,Acetonitrile,C(C)#N
+16,Acetone,CC(=O)C
+17,DCM,C(Cl)Cl
+18,THF,C1CCOC1
+19,Ethyl Acetate,CCOC(=O)C
+20,Cyclohexanone,C1CCC(=O)CC1
+21,Formamide,C(=O)N
+22,"1,2,4-trichlorobenzene",ClC1=C(C=C(C=C1)Cl)Cl
+23,"1,4-dioxane",C1COCCO1
+24,Chloroform,C(Cl)(Cl)Cl
+25,Diethyl ether,C(C)OCC
+26,Toluene,CC1=CC=CC=C1
+27,Benzene,C1=CC=CC=C1
+28,n-hexane,CCCCCC
+29,Petroleum ether,CCCC(C)C
+30,carbon disulfide,C(=S)=S
+31,Heptane,CCCCCCC
+32,Cyclohexane,C1CCCCC1
+33,Decalin,C1CCCC2CCCCC12
+34,Pentane,CCCCC
+35,Ethyl Lactate,CCOC(=O)C(C)O
+36,styrene,C=CC1=CC=CC=C1
+37,"1, 2, dichloroethane",C(CCl)Cl
+38,xylene,CC1=CC=C(C=C1)C.CC1=CC(=CC=C1)C.CC1=CC=CC=C1C
+39,"1,2dichlorobenzene",C1=CC=C(C(=C1)Cl)Cl
+40,n-Butyl Acetate,CCCCOC(=O)C
+41,Pyridine,C1=CC=NC=C1
+42,Anisole,COC1=CC=CC=C1
+44,"2, 4, 6- trimethylpyridine",CC1=CC(=NC(=C1)C)C
+45,Cyclopentanone,C1CCC(=O)C1
+46,Isobutyl acetate,CC(C)COC(=O)C
+47,1-octanol,CCCCCCCCO
+48,Benzyl alcohol,c1ccc(cc1)CO
