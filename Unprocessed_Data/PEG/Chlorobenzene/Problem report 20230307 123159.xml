@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProblemReport>
+  <OccurenceDateTime>07/03/2023 12:32:00</OccurenceDateTime>
+  <Contact><![CDATA[]]></Contact>
+  <ComputerName>DESKTOP-J1ENIT3</ComputerName>
+  <ApplicationName>CrystallizationSystems</ApplicationName>
+  <ApplicationVersion>1.14.0</ApplicationVersion>
+  <AssemblyInfo>
+    <Assembly version="2.1.10.0">AeroWizard</Assembly>
+    <Assembly version="2.0.20072.17156">C1.Win.C1Chart.2</Assembly>
+    <Assembly version="2.0.20072.19209">C1.Win.C1Command.2</Assembly>
+    <Assembly version="2.6.20072.339">C1.Win.C1FlexGrid.2</Assembly>
+    <Assembly version="2.0.20072.33009">C1.Win.C1Input.2</Assembly>
+    <Assembly version="0.9.26.0">Ciloci.Flee</Assembly>
+    <Assembly version="2.5.6298.4486">CircularProgressBar</Assembly>
+    <Assembly version="1.14.0.0">Crystalline.Device</Assembly>
+    <Assembly version="1.14.0.0">Crystalline.General</Assembly>
+    <Assembly version="1.14.0.0">IPAddressControlLib</Assembly>
+    <Assembly version="2.0.8.0">log4net</Assembly>
+    <Assembly version="1.32.4334.0">MigraDoc.DocumentObjectModel</Assembly>
+    <Assembly version="1.32.4334.0">MigraDoc.Rendering</Assembly>
+    <Assembly version="4.0.0.0">mscorlib</Assembly>
+    <Assembly version="5.0.0.0">Nito.AsyncEx.Coordination</Assembly>
+    <Assembly version="1.14.0.0">ReactorControl</Assembly>
+    <Assembly version="4.0.62.0">ServiceStack.Text</Assembly>
+    <Assembly version="1.5.6298.3372">WinFormAnimation</Assembly>
+  </AssemblyInfo>
+  <ReactorA>
+    <ExperimentName>ND-PEAACoSolvents</ExperimentName>
+    <DBName>reactorA</DBName>
+    <DBVersion>2.11</DBVersion>
+  </ReactorA>
+  <ReactorB>
+    <ExperimentName>ND-PEAACoSolvents</ExperimentName>
+    <DBName>reactorB</DBName>
+    <DBVersion>2.11</DBVersion>
+  </ReactorB>
+  <ReactorC />
+  <ReactorD />
+  <SystemDatabase>
+    <DBName>Crystalline</DBName>
+    <DBVersion>3.0</DBVersion>
+  </SystemDatabase>
+  <ActiveReactor>A</ActiveReactor>
+  <ReactorAddOn>None</ReactorAddOn>
+  <Description><![CDATA[Exception: ArgumentOutOfRangeException
+Source: mscorlib
+Message:
+Value to add was out of range.
+Parameter name: value
+
+Stack trace: 
+   at System.DateTime.Add(Double value, Int32 scale)
+   at Crystalline.GUI.UserControls.ExperimentAnalysisResultUserControl.runtimeChart_OnSliderPositionChanged(Double relativeTime, Boolean sliderMoving)
+   at Crystalline.GUI.CustomUIElements.RuntimeChart.set_SliderX(Double value)
+   at Crystalline.GUI.CustomUIElements.RuntimeChart.UserSliderToRelativeTime(Double time, Boolean sliderIsMoving)
+   at Crystalline.GUI.CustomUIElements.RuntimeChart.SetSliderToLastSampleTime(Double lastSampleTime)
+   at Crystalline.GUI.UserControls.ExperimentAnalysisResultUserControl.Instance_OnActiveReactorChanged(Nullable`1 reactorNr)
+   at Crystalline.GUI.ApplicationStateManager.ActiveReactorEventHandler.Invoke(Nullable`1 reactor)
+   at Crystalline.GUI.ApplicationStateManager.invokeOnActiveReactorChanged(Nullable`1 reactor)
+   at Crystalline.GUI.ApplicationStateManager.set_ActiveReactor(Nullable`1 value)
+   at Crystalline.GUI.ApplicationStateManager.UpdateScreen(SCREEN screen, Nullable`1 reactorNumber)
+   at Crystalline.GUI.UserControls.OverviewUserControl.reactorUserControl_Click(Object sender, EventArgs e)
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.UserControl.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)]]></Description>
+  <Reproduce><![CDATA[]]></Reproduce>
+</ProblemReport>
