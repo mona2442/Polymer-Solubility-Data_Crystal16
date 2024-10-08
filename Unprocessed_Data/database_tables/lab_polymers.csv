@@ -1,0 +1,39 @@
+id,name,number_average_mw_min,number_average_mw_max,supplier,pol_id
+31,Poly Styrene,10000,10000,Sigma,5
+32,Polyvinylpyrrolidone,10000,10000,Sigma,23
+33,Poly methyl methacrylate,15000,15000,Sigma,21
+35,Polyvinyl alcohol,9000,10000,Sigma,25
+36,Poly caprolactone,14000,14000,Sigma,12
+37,Polypropylene,15000,15000,Sigma,27
+38,Poly lactic acid,5000,5000,Sigma,11
+39,Dextran,9000,10000,Sigma,2
+40,Poly(2-ethyl-2-oxazoline),5000,5000,Sigma,7
+41,Poly4vinylphenol,9000,11000,Polysciences,26
+42,Chitosan,15000,15000,Polysciences,3
+43,Nylon-6,35000,35000,Polysciences,10
+45,Polyvinylpyrrolidone,2500,2500,Polysciences,23
+48,Poly (vinylidene fluoride),534000,534000,Sigma,18
+52,Poly tert butyl acrylate,10000,10000,TCI america (Lab Pro)-P2582,22
+53,Nylon-12,,,,9
+54,Polyethylene terephthalate,,,Sigma,13
+55,Polyallylaminehydrochloride,17000,17000,,29
+57,Poly(tetrafluoroethylene),,,,17
+50,Polyethyleneimine,100000,100000,,8
+34,PEG,8000,8000,Sigma,15
+46,PEO,1000000,1000000,Alfa Aesar,15
+58,Poly ethylene,28.05,28.05,fisher scientific,28
+59,Polyvinyl alcohol,145000,180000,Sigma,25
+60,Polyvinylpyrrolidone,1300000,1300000,Sigma,23
+61,PAM,40000,40000,Sigma,20
+62,mPEG,5000,5000,Sigma,15
+63,PAN,150000,150000,Sigma,24
+64,PTHF,2900,2900,Sigma,14
+65,Cellulose acetate,50000,50000,Sigma,4
+67,Poly(allylamine) hydrochloride,25000,25000,Sigma,29
+66,Poly(vinylamine) hydrochloride,25000,25000,Polysciences,31
+68,Polyvinyl chloride,,,Sigma,19
+69,Polyethyleneimine-linear,2100,2100,Sigma,8
+70,Poly(vinyl formal),,,Sigma,30
+71,polyacenaphthylene,5000,5000,Sigma,6
+72,Poly(chlorotrifluoroethylene),,,Sigma,16
+73,"Poly(1,4-phenylene sulfide)",10000,10000,Sigma,1

@@ -1,0 +1,48 @@
+id,name,percent_purity,sol_id
+1,Water,,22
+2,m-cresol,99,7
+3,Methanol,99.8,1
+4,Ethanol,90,16
+5,Isopropylalcohol,99.9,39
+7,Acetic acid,99.7,13
+8,Trifluoroethanol,99.8,42
+10,Chlorobenzene,99,12
+11,NMP,99,38
+12,DMAc,99,15
+13,DMSO,99.9,35
+15,Acetonitrile,99.5,10
+17,DCM,,31
+18,THF,99,4
+19,Ethyl Acetate,99.5,14
+21,Formamide,,5
+22,"1,2,4-trichlorobenzene",,19
+23,"1,4-dioxane",99.8,3
+25,Diethyl ether,99.8,2
+26,Toluene,99.9,30
+27,Benzene,99,11
+29,Petroleum ether,,43
+33,Decalin,,40
+36,styrene,,18
+38,xylene,,29
+39,"1,2dichlorobenzene",,23
+40,n-Butyl Acetate,99,27
+41,Pyridine,99,25
+42,Anisole,99,9
+6,n-butanol,99.4,41
+9,Nitrobenzene,99,8
+14,DMF,99.8,32
+16,Acetone,99.5,24
+20,Cyclohexanone,99.8,20
+24,Chloroform,99.8,21
+28,n-hexane,99,17
+30,carbon disulfide,99.5,6
+31,Heptane,99,36
+32,Cyclohexane,99.5,37
+34,Pentane,98,28
+37,"1, 2, dichloroethane",99,26
+35,Ethyl Lactate,98,44
+44,"2, 4, 6- trimethylpyridine",99,45
+45,Cyclopentanone,99,46
+46,Isobutyl acetate,99,33
+47,1-octanol,99,34
+48,Benzyl alcohol,99,47
