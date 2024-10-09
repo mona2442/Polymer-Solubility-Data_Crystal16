@@ -8,10 +8,10 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.9"
-csst-analyzer = {git = "ssh://git@github.com/Ramprasad-Group/csst_analyzer.git", rev = "v4.0.1"}
 sqlalchemy-utils = "^0.41.2"
 jupyterlab = "^4.2.5"
 rdkit = "^2024.3.5"
+csst-analyzer = "^4.0.1"
 
 
 [build-system]

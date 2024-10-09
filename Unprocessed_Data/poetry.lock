@@ -553,28 +553,24 @@ name = "csst-analyzer"
 version = "4.0.1"
 description = ""
 optional = false
-python-versions = "^3.9"
-files = []
-develop = false
+python-versions = "<4.0,>=3.9"
+files = [
+    {file = "csst_analyzer-4.0.1-py3-none-any.whl", hash = "sha256:57fbe2418c43ee59af76f4745c8dfc181fe109ebea3a86bb95c60a6ca87ff12c"},
+    {file = "csst_analyzer-4.0.1.tar.gz", hash = "sha256:21cd4fdcc8ff7c45f93327636ca7444c3843993baf48137408285fb55eaefde8"},
+]
 
 [package.dependencies]
-alembic = "^1.13.1"
-jupyterlab = "^4.0.9"
-matplotlib = "^3.5.3"
-numpy = "^1.23.2"
-pandas = "^1.4.4"
-psycopg = {version = "^3.1.17", extras = ["binary", "pool"]}
-pydantic = "^1.10.2"
-python-dotenv = "^1.0.0"
-scipy = "^1.12.0"
-seaborn = "^0.12.0"
-sqlalchemy = "^2.0.11"
-
-[package.source]
-type = "git"
-url = "ssh://git@github.com/Ramprasad-Group/csst_analyzer.git"
-reference = "v4.0.1"
-resolved_reference = "56c1908b455e6e5b698d91ca5fbde1bdd0ea4a05"
+alembic = ">=1.13.1,<2.0.0"
+jupyterlab = ">=4.0.9,<5.0.0"
+matplotlib = ">=3.5.3,<4.0.0"
+numpy = ">=1.23.2,<2.0.0"
+pandas = ">=1.4.4,<2.0.0"
+psycopg = {version = ">=3.1.17,<4.0.0", extras = ["binary", "pool"]}
+pydantic = ">=1.10.2,<2.0.0"
+python-dotenv = ">=1.0.0,<2.0.0"
+scipy = ">=1.12.0,<2.0.0"
+seaborn = ">=0.12.0,<0.13.0"
+sqlalchemy = ">=2.0.11,<3.0.0"
 
 [[package]]
 name = "cycler"
@@ -3298,4 +3294,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "ecf55fe43d366898f40709c536c3999619a5a9959a33a348748023a188d098eb"
+content-hash = "1c18abca4cdd06aee257a08006431d7a3974d01a39cf780aa70bb50b2fb25011"
