@@ -1,5 +1,5 @@
 # Unprocessed CSST data
-To process the raw data, you can use our [crystal16 analyzer package](https://github.com/jdkern11/csst_analyzer). Note, we use a Postgres database to house metadata related to our experiments as well as processed data results. To use our database set up, download Postgres and a database manager (such as [dbeaver](https://dbeaver.io/)), then create a new role and password for yourself and give the role super user, can login, and create database privileges. 
+To process the raw data, you can use our [crystal16 analyzer package](https://github.com/Ramprasad-Group/csst_analyzer). Note, we use a Postgres database to house metadata related to our experiments as well as processed data results. To use our database set up, download Postgres and a database manager (such as [dbeaver](https://dbeaver.io/)), then create a new role and password for yourself and give the role super user, can login, and create database privileges. 
 
 We also use [poetry](https://python-poetry.org/docs/) to manage python dependencies. You can install a virtual environment in this folder that has all requisite dependencies by first downloading python 3.9, then running `poetry env use path/to/python3.9_executable/bin/python` (the actual executable path), then by running `poetry install` from the command line in this folder. 
 
